@@ -1,5 +1,5 @@
 {
-  "homepage": "https://erlingto.github.io/funStuff/",
+  "homepage": "https://erlingto.github.io/funStuff/", 
   "name": "javascripts",
   "version": "0.1.0",
   "private": true,
@@ -17,7 +17,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages master -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
