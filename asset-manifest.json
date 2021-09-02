@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/funStuff/static/css/main.d6fed61d.chunk.css",
+    "main.js": "/funStuff/static/js/main.d1d1137c.chunk.js",
+    "main.js.map": "/funStuff/static/js/main.d1d1137c.chunk.js.map",
+    "runtime-main.js": "/funStuff/static/js/runtime-main.b3d81262.js",
+    "runtime-main.js.map": "/funStuff/static/js/runtime-main.b3d81262.js.map",
+    "static/js/2.eb10f02d.chunk.js": "/funStuff/static/js/2.eb10f02d.chunk.js",
+    "static/js/2.eb10f02d.chunk.js.map": "/funStuff/static/js/2.eb10f02d.chunk.js.map",
+    "static/js/3.14a9efca.chunk.js": "/funStuff/static/js/3.14a9efca.chunk.js",
+    "static/js/3.14a9efca.chunk.js.map": "/funStuff/static/js/3.14a9efca.chunk.js.map",
+    "index.html": "/funStuff/index.html",
+    "static/css/main.d6fed61d.chunk.css.map": "/funStuff/static/css/main.d6fed61d.chunk.css.map",
+    "static/js/2.eb10f02d.chunk.js.LICENSE.txt": "/funStuff/static/js/2.eb10f02d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3d81262.js",
+    "static/js/2.eb10f02d.chunk.js",
+    "static/css/main.d6fed61d.chunk.css",
+    "static/js/main.d1d1137c.chunk.js"
+  ]
+}
