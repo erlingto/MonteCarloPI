@@ -28,6 +28,20 @@
   color: #61dafb;
 }
 
+.matrice-item{
+  width:  0.2em;
+  height: 0.2em;
+  padding: 0.1em;
+  border: 1px solid #ddd;
+  background-color: aliceblue;
+}
+
+.matrice {
+  display: grid;
+  grid-template-rows: repeat(100, 0fr);
+  grid-template-columns: repeat(100, 0fr);
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
