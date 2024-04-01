@@ -1,4 +1,4 @@
-MonteCarlo visualization in typescript.
+MonteCarlo PI visualization in typescript.
 
 Link: https://erlingto.github.io/funStuff/
 
