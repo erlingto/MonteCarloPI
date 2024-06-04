@@ -1,6 +1,6 @@
 MonteCarlo PI visualization in typescript.
 
-Link: https://erlingto.github.io/funStuff/
+Link: https://erlingto.github.io/MonteCarloPI/
 
 Each time a coordinate is hit the color its cell gets stronger. 
 
